@@ -4,9 +4,9 @@
 
 回路とか組み込みとかを気ままにやっております。  
 
-Twitter(X):https://x.com/sabanekko1  
+Twitter(X):[https://x.com/sabanekko1](https://x.com/sabanekko1)  
 
-ブログ:https://sabanekko2.hatenablog.com/  
+ブログ:[https://sabanekko2.hatenablog.com/](https://sabanekko2.hatenablog.com/)  
 
 ## つくったものとか
 
@@ -36,7 +36,7 @@ Twitter(X):https://x.com/sabanekko1
 
 ![tgt](images/PXL_20240602_014704862.jpg)
 
-https://sabanekko2.hatenablog.com/entry/2024/06/12/191351
+[https://sabanekko2.hatenablog.com/entry/2024/06/12/191351](https://sabanekko2.hatenablog.com/entry/2024/06/12/191351)
 
 ### リニアモーターペンプロッタ
 
@@ -44,7 +44,7 @@ https://sabanekko2.hatenablog.com/entry/2024/06/12/191351
 
 ![lm](images/PXL_20241024_112251859.jpg)
 
-https://sabanekko2.hatenablog.com/entry/2024/10/24/210847
+[https://sabanekko2.hatenablog.com/entry/2024/10/24/210847](https://sabanekko2.hatenablog.com/entry/2024/10/24/210847)
 
 ### BLDCドライバ
 
@@ -65,7 +65,7 @@ USB-PDによる給電で動作し、0~20V、150mAを2系統出力できます。
 
 ![power_](images/PXL_20220324_010212172.jpg)
 
-https://sabanekko2.hatenablog.com/entry/2022/03/24/222924
+[https://sabanekko2.hatenablog.com/entry/2022/03/24/222924](https://sabanekko2.hatenablog.com/entry/2022/03/24/222924)
 
 ### Brainfuckマイコン
 
@@ -77,4 +77,4 @@ PI制御などの制御も実行可能です。
 他励式SSTC。  
 Raspberry Pi Picoを使用した8和音MIDIインタプリタを接続可能。  
 
-<video src=images/PXL_20230930_071242225.TS.mp4 controls="true"></video>
+![sstc](images/PXL_20221104_041733014.jpg)
